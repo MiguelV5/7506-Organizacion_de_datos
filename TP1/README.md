@@ -175,8 +175,7 @@ alternativas para establecer los límites de cada categoría:
 
 2. Dividir la variable pxm2 en 3 intervalos, el primero con el 25% de las observaciones, el siguiente con el 50% y el último con el 25% de las observaciones restantes.
 
-3. Trabajar la variable pxm2 relativa a cada tipo de propiedad y luego dividirla como en
-el punto anterior.
+3. Trabajar la variable pxm2 relativa a cada tipo de propiedad y luego dividirla como en el punto anterior.
 
 Se pide:
 
