@@ -18,7 +18,7 @@
 <br>
 Repositorio para ejercicios y fork de repo con trabajos prácticos.
 <br>
-(Repo con trabajos prácticos [aquí](https://github.com/paulabruck/7506R-2C2022-GRUPO3) )
+<a href="https://github.com/paulabruck/7506R-2C2022-GRUPO3">(Repo con trabajos prácticos aquí)</a>
 <br>
 Segundo Cuatrimestre - 2022
 </font>
