@@ -1,3 +1,32 @@
+# Notas adicionales sobre los archivos de entrega
+
+## Sobre las notebooks entregadas
+
+Se decidió separar el trabajo de forma que se tuviese una notebook por cada una de las secciones principales del trabajo (Exceptuando la ultima que contiene los puntos 4 y 5)
+(Seccionado según el enunciado:  ***1. Análisis Exploratorio y Preprocesamiento de Datos;  2. Agrupamiento;  3. Clasificación; 4. Regresión y Conclusiones***)
+
+Las notebooks mencionadas están nombradas respectivamente con las terminaciones: ***ENTREGA_N1,  ENTREGA_N2,  ENTREGA_N3,  ENTREGA_N4Y5***
+
+## Sobre los datasets que se encuentran almacenados en el repositorio
+
+Se tienen los siguientes datasets almacenados:
+
+- `properati_argentina_2021.csv` es el set de datos original brindado por la cátedra.
+- `df_preprocesado.csv` es el set de datos almacenado tras aplicar por completo el analisis exploratorio y de outliers en el dataset original.
+- `df_pca.csv` es el dataset generado que se pide en la sección **1. (d)** del enunciado, tras aplicar PCA redimensionando el dataset preprocesado.
+- `df_kmeans_2_cluster` y `df_kmeans_3_cluster` son los datasets obtenidos en el punto **2** de agrupamiento, en 2 y 3 grupos respectivamente.
+
+## Sobre otros archivos varios
+
+El archivo `requirements.txt` es un archivo auxiliar que utiliza el entorno de Deepnote (el entorno de desarrollo que utilizamos para el trabajo) para instalar dependencias que se necesiten para la ejecución de ciertas celdas. En caso de requerir usar google colab (u otra plataforma) se pueden instalar manualmente las dependencias indicadas en el mismo por medio de `!pip install`.
+
+El archivo `barrios.geojson` es un archivo para realizar el gráfico del mapa de CABA y poder mostrar observaciones sobre el mismo.
+
+Se tienen todos los archivos de tipo `.joblib` que almacenan todos los modelos entrenados en el trabajo.
+(Obs: Esta nota es acerca del repo orginal en el que se entregó el trabajo. Aqui no se encuentran almacenados los joblibs porque son pesados)
+
+---
+
 # Enunciado Trabajo Práctico 1: Propiedades en Venta
 
 ## Introducción
