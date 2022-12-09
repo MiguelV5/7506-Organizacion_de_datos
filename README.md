@@ -16,7 +16,7 @@
 <font size="+3">
 Repositorio pseudo-fork de repo con trabajos prácticos de la materia y notebooks utilizadas en clases prácticas.
 <br>
-<a href="https://github.com/paulabruck/7506R-2C2022-GRUPO3">(Repo con trabajos prácticos aquí)</a>
+<a href="https://github.com/paulabruck/7506R-2C2022-GRUPO3">(Repo original de entregas aquí)</a>
 <br>
 Segundo Cuatrimestre - 2022
 </font>
