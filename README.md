@@ -1,4 +1,4 @@
-# 7506R-2C2022-GRUPO3 
+# [75.06] Organizacion de Datos - Curso Rodriguez - 2c2022
 
 ---
 
@@ -14,9 +14,7 @@
 <br>
 <p align="center">
 <font size="+3">
-[75.06] Organizacion de Datos - Curso Rodriguez
-<br>
-Repositorio para ejercicios y fork de repo con trabajos prácticos.
+Repositorio pseudo-fork de repo con trabajos prácticos de la materia y notebooks utilizadas en clases prácticas.
 <br>
 <a href="https://github.com/paulabruck/7506R-2C2022-GRUPO3">(Repo con trabajos prácticos aquí)</a>
 <br>
