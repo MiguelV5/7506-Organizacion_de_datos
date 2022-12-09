@@ -36,11 +36,10 @@ INTEGRANTES
 </font>
 <br>
 <font size="+1">
-Ramiro Gestoso,
-Facundo Monpelat,
-Paula Bruck,
-Miguel Vasquez,
-Gaston Avila
+[Ramiro Gestoso](https://github.com/ramirogestoso),
+[Facundo Monpelat](https://github.com/fmonpelat),
+[Paula Bruck](https://github.com/paulabruck),
+[Miguel Vasquez](https://github.com/MiguelV5)
 </font>
 
 </p>
