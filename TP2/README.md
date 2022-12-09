@@ -2,33 +2,30 @@
 
 ## Sobre las notebooks entregadas
 
-<!--- 
-Se decidió separar el trabajo de forma que se tuviese una notebook por cada una de las secciones principales del trabajo (Exceptuando la ultima que contiene los puntos 4 y 5)
-(Seccionado según el enunciado:  ***1. Análisis Exploratorio y Preprocesamiento de Datos;  2. Agrupamiento;  3. Clasificación; 4. Regresión y Conclusiones***)
-
-Las notebooks mencionadas están nombradas respectivamente con las terminaciones: ***ENTREGA_N1,  ENTREGA_N2,  ENTREGA_N3,  ENTREGA_N4YN5***
---->
+Para este trabajo practico se realiza la entrega en una única notebook:  `7506R_TP2_GRUPO3_ENTREGA.ipynb`
 
 ## Sobre los datasets que se encuentran almacenados en el repositorio
 
 Se tienen los siguientes datasets almacenados:
 
-<!---
-- `properati_argentina_2021.csv` es el set de datos original brindado por la cátedra.
-- `df_preprocesado.csv` es el set de datos almacenado tras aplicar por completo el analisis exploratorio y de outliers en el dataset original.
-- `df_pca.csv` es el dataset generado que se pide en la sección **1. (d)** del enunciado, tras aplicar PCA redimensionando el dataset preprocesado.
-- `df_kmeans_2_cluster` y `df_kmeans_3_cluster` son los datasets obtenidos en el punto **2** de agrupamiento, en 2 y 3 grupos respectivamente.
---->
+- `df_preprocesado.csv` es el set de datos almacenado tras aplicar por completo el analisis exploratorio y de outliers en el TP1, cabe aclarar que no es el mismo que se tiene en la carpeta `TP1`, ya que se le añadieron nuevamente los IDs de propiedad para poder reincorporar las descripciones de las propiedades.
+- `df_target_test.csv` y `df_target_train.csv` son datasets generados a partir de la separación train-test realizada en el punto 3 del TP1. Se optó por tenerlos separados para mantener la misma partición, dado que se había decidido como criterio dividir las propiedades segun precio alto/bajo/medio teniendo en cuenta cierto umbral 25-50-25 teniendo en cuenta el tipo de propiedad.
+- Se omitieron los datasets originales brindados por la cátedra: `properati_argentina_2021.csv` `properati_argentina_2021.csv`; dado que con el peso de almacenamiento de los mismos no era posible subirlos al repositorio de entrega
 
 ## Sobre otros archivos varios
 
 El archivo `requirements.txt` es un archivo auxiliar que utiliza el entorno de Deepnote (el entorno de desarrollo que utilizamos para el trabajo) para instalar dependencias que se necesiten para la ejecución de ciertas celdas. En caso de requerir usar google colab (u otra plataforma) se pueden instalar manualmente las dependencias indicadas en el mismo por medio de `!pip install`.
 
-<!---
-El archivo `barrios.geojson` es un archivo para realizar el gráfico del mapa de CABA y poder mostrar observaciones sobre el mismo.
---->
+Se tienen archivos que almacenan información acerca de algunos de los modelos entrenados en el trabajo y algunos auxiliares traidos del TP1. 
+En particular los archivos relacionados a los nuevos modelos entrenados en el TP actual son:
+- `regresor_xgboost_dataset_ampliado.joblib`
+- `regresor_redneuronal.h5`
+- `clasificador_voting.zip` (el joblib se comprimió para poder subirlo al repositorio de entrega)
+- `regresor_stacking.joblib`
 
-Se tienen todos los archivos de tipo `.joblib` que almacenan todos los modelos entrenados en el trabajo.
+(**Nota del repo**: todos los archivos de los modelos se encuentran en el repositorio original de la entrega, no se subieron acá debido a que son muy pesados)
+
+El archivo `out_ecmes.txt` contiene la salida de ejecución de ECmes para el análisis de extraccion de información a partir de lenguaje natural de las descripciones de las propiedades.
 
 ---
 
