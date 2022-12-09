@@ -36,10 +36,10 @@ INTEGRANTES
 </font>
 <br>
 <font size="+1">
-[Ramiro Gestoso](https://github.com/ramirogestoso),
-[Facundo Monpelat](https://github.com/fmonpelat),
-[Paula Bruck](https://github.com/paulabruck),
-[Miguel Vasquez](https://github.com/MiguelV5)
+<a href="https://github.com/ramirogestoso">Ramiro Gestoso</a>,
+<a href="https://github.com/fmonpelat">Facundo Monpelat</a>,
+<a href="https://github.com/paulabruck">Paula Bruck</a>,
+<a href="https://github.com/MiguelV5">Miguel Vasquez</a>
 </font>
 
 </p>
