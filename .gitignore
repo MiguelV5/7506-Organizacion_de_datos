@@ -1,9 +1,6 @@
 #  Concrete files #
 ############
 # nombres de archivos a ignorar
-Notebooks_de_clase/
-*.csv
-#(ignorados tras ultima actualizacion del cuatri para borrado local)
 
 # Compiled source #
 ###################
