@@ -16,6 +16,9 @@
 <font size="+3">
 Repositorio con trabajos prácticos de la materia y notebooks utilizadas en clases prácticas.
 <br>
+( Repo original para entregas <a href="https://github.com/paulabruck/7506R-2C2022-GRUPO3">aquí</a> )
+
+<br>
 <br>
 Segundo Cuatrimestre - 2022
 </font>
